@@ -1,0 +1,4 @@
+﻿  Main.cpp
+i:\bluekiller\documents\visual studio 2017\projects\mh\mh\main.cpp(212): warning C4018: '<': signed/unsigned mismatch
+  MH.vcxproj -> i:\bluekiller\documents\visual studio 2017\Projects\MH\Debug\MH.exe
+  MH.vcxproj -> i:\bluekiller\documents\visual studio 2017\Projects\MH\Debug\MH.pdb (Partial PDB)
